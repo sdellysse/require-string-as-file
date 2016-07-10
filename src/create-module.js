@@ -1,3 +1,4 @@
+const dirname = require("path").dirname;
 const Module = require("module");
 
 module.exports = function createModule (pathname) {
