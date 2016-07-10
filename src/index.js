@@ -1,4 +1,6 @@
 const AbsolutePathnameRequiredError = require("./errors/absolute-pathname-required-error");
+const createModule = require("./create-module");
+const createRequire = require("./create-require");
 const dirname = require("path").dirname;
 const isAbsolutePath = require("path").isAbsolute;
 const Module = require("module");
