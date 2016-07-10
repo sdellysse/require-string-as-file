@@ -1,0 +1,20 @@
+{
+  "name": "require-string-as-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawndellysse/require-string-as-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawndellysse/require-string-as-file/issues"
+  },
+  "homepage": "https://github.com/shawndellysse/require-string-as-file#readme"
+}
